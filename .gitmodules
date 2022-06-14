@@ -1,0 +1,6 @@
+[submodule "api_gateway"]
+	path = api_gateway
+	url = https://github.com/AlexRozaLopes/api_gateway.git
+[submodule "api_simples"]
+	path = api_simples
+	url = https://github.com/AlexRozaLopes/api_simples.git
