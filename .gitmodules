@@ -7,3 +7,6 @@
 [submodule "my_discovery_server"]
 	path = my_discovery_server
 	url = https://github.com/AlexRozaLopes/my_discovery_server.git
+[submodule "config_server"]
+	path = config_server
+	url = https://github.com/AlexRozaLopes/config_server.git
