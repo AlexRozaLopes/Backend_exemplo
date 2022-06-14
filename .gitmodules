@@ -4,3 +4,6 @@
 [submodule "api_simples"]
 	path = api_simples
 	url = https://github.com/AlexRozaLopes/api_simples.git
+[submodule "my_discovery_server"]
+	path = my_discovery_server
+	url = https://github.com/AlexRozaLopes/my_discovery_server.git
